@@ -1,0 +1,195 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainwrapper {
+	background-color: #000561;
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 947px;
+	height: 340px;
+	-moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+
+#leftwrapper {
+	background-color: #003082;
+	float: left;
+	width: 140px;
+	height: 100%;
+	display: inline-block;
+}
+
+#leftsmallwrapper {
+	width: 106px;
+	height: 106px;
+	background-color: white;
+	margin: auto;
+	margin-top: 30px;
+}
+
+#leftsmaller {
+	height: 25px;
+	width: 25px;
+	margin-top: 0px;
+	background-color: #003082;
+	margin-top: -73px;
+	position: absolute;
+}
+
+#B {
+	margin-left: 80px;
+	margin-top: -80px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #003082;
+}
+
+#spoor {
+	color: #003082;
+	margin-top: 30px;
+	margin-left: 30px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#bigger {
+	color: #003082;
+	margin-top: 30px;
+	font-size: 70px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-left: 5px;
+
+}
+
+#middlewrapper {
+	width: 560px;
+	height: 100%;
+	display: inline-block;
+}
+
+#middlediv {
+	background-color: #fff;
+	width: 500px;
+	height: 295px;
+	border: 1px solid #000561;;
+	margin-left: 28px;
+	margin-right: 28px;
+	margin-top: 20.5px;
+	margin-bottom: 20.5px;
+}
+
+#rightwrapper {
+	background-color: #fff;
+	float: right;
+	width: 245px;
+	height: 100%;
+	display: inline-block;
+}
+
+#middle1 {
+ 	width: calc(50% - 1px);
+ 	height: 50px;
+ 	display: inline-block;
+ 	float: left;
+	color: #003082;
+	font-weight: bold;
+}
+
+#tijd {
+	margin-left: 14px;
+}
+
+#middle1, p {
+	font-size: 35px;
+ 	margin-top: 0px;
+
+}
+
+
+#middle2 {
+	width: calc(50% - 1px);
+	height: 50px;
+	display: block;
+	color: #003082;
+	float:left;
+	vertical-align: top;
+	font-weight: bold;
+}
+
+#intercity {
+	margin-top: -41px;
+	margin-left: 10px;
+}
+
+
+#logo {
+	width: 30%;
+	margin-top: 8px;
+	margin-left: 165px;
+}
+
+#middle3 {
+	height: 160px;
+	width: 100%;
+	color: #003082;
+	font-size: 15px;
+}
+
+#middle4 {
+ 	height: 35px;
+ 	width: 100%;
+ 	display: inline-block;
+ 	bottom: -24px;
+ 	position: relative;
+ 	margin-top: 0px;
+	background-color: #000561;
+	color: #fff;
+}
+
+#middle5 {
+	height: 35px;
+	width: 100%;
+	display: inline-block;
+	bottom: -25px;
+	position: relative;
+	background-color: #000561;
+	color: #fff
+}
+
+#Leeuwarden {
+	margin-left: 6px;
+	margin-top: 7px;
+	font-size: 20px;
+}
+
+#Deventer {
+	margin-left: 6px;
+	margin-top: 6px;
+	font-size: 20px;
+}
+
+#h1deventer {
+	margin-left: 10px;
+	font-size: 60px;
+}
+
+#deventerp {
+	font-size: 24px;
+	margin-top: -25px;
+	margin-left: 14px;
+}
+
+#circle {
+	margin: 20px 20px;
+	margin-top: -322px;
+	margin-left: 725px;
+	margin-bottom: 350px;
+	display: inline-block;
+}
